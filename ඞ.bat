@@ -1,1 +1,2 @@
 echo ඞ amogus
+pause
